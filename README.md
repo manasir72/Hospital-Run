@@ -1,2 +1,2 @@
 # Hospital-Run
-Implementation of HopitalRun in Waseela foundation
+Implementation of HopitalRun in Waseela foundation hospital
